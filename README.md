@@ -51,3 +51,5 @@ I identified key assets that needed protection, created a risk matrix, and evalu
 The goal was to help the client prioritize and implement security measures that ensured the confidentiality, integrity, and availability of their information, while also protecting their reputation and resources. My work also helped them comply with regulatory standards and provided peace of mind by demonstrating expert cybersecurity management.
 
 In this task, I was responsible for documenting the client's risk position using the padlock analogy as an example. The client wanted me to help them define the context of their security situation, assess their risk matrix, and identify potential risk scenarios. This involved examining how the padlock, representing the existing security measures, could be bypassed and highlighting any vulnerabilities in their overall security posture. I evaluated potential risks, considering both the physical and digital aspects, and provided recommendations for strengthening their security based on the findings.
+
+Please dowmload my risk assessment [here](https://github.com/LwandoMadebe/lwandoRiskAssessment)
