@@ -1,4 +1,4 @@
-# Datacom---Cybersecurity-Job-Semulation
+# Datacom---Cybersecurity-Job-Simulation
 
 ### Task 1: APT breach: analysing the impact on information security
 1. Investigate a cyber attack and produce a comprehensive report documenting your findings and outline key recommendations for improving a client's cybersecurity posture
