@@ -54,9 +54,9 @@ In this task, I was responsible for documenting the client's risk position using
 
 Please dowmload my risk assessment [here](./LwandoRiskAssessment.xlsx)
 
-### What I learned
-Completed a simulation focussed on how Datacom's cybersecurity team helps protect it's clients
-Investigated a cyberattack and produced a comprehensive report documenting findings and outlining key recommendations to improve a client's cybersecurity posture
-Conducted a comprehensive risk assessment
+### Summary of what I did
+1. Completed a simulation focussed on how Datacom's cybersecurity team helps protect it's clients
+2. Investigated a cyberattack and produced a comprehensive report documenting findings and outlining key recommendations to improve a client's cybersecurity posture
+2. Conducted a comprehensive risk assessment
 
 PLease download my completion certificate [here](./dartacomcertificate.pdf)
