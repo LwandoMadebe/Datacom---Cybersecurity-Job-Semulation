@@ -40,3 +40,14 @@ There are many robust measures the client could implement such as:
 5. It is important always to monitor the network traffic, which will help detect suspicious activity in the network. 
 
 Additionally, the client must invest in training their cyber security professionals because they are the backbone of security and they must be aware of the latest cyber news and how they can detect vulnerabilities.  
+
+### Task 2: Cybersecurity risk assessment
+1. Complete a risk assessment for a client and help them define the context, assess their risk matrix, and identify potential risk scenarios
+
+The next task was to conduct a comprehensive risk assessment for the client. Although the client had physical security measures like a fence and a padlock, they were concerned about risks to their information and systems. My role was to identify, evaluate, and prioritize potential threats and vulnerabilities in their network and systems. 
+
+I identified key assets that needed protection, created a risk matrix, and evaluated potential risk scenarios. I assessed the risk ratings for each scenario, considering the existing security measures. Afterward, I produced a risk assessment report summarizing my findings and recommending steps to mitigate risks and improve the client’s security posture.
+
+The goal was to help the client prioritize and implement security measures that ensured the confidentiality, integrity, and availability of their information, while also protecting their reputation and resources. My work also helped them comply with regulatory standards and provided peace of mind by demonstrating expert cybersecurity management.
+
+In this task, I was responsible for documenting the client's risk position using the padlock analogy as an example. The client wanted me to help them define the context of their security situation, assess their risk matrix, and identify potential risk scenarios. This involved examining how the padlock, representing the existing security measures, could be bypassed and highlighting any vulnerabilities in their overall security posture. I evaluated potential risks, considering both the physical and digital aspects, and provided recommendations for strengthening their security based on the findings.
