@@ -52,4 +52,4 @@ The goal was to help the client prioritize and implement security measures that 
 
 In this task, I was responsible for documenting the client's risk position using the padlock analogy as an example. The client wanted me to help them define the context of their security situation, assess their risk matrix, and identify potential risk scenarios. This involved examining how the padlock, representing the existing security measures, could be bypassed and highlighting any vulnerabilities in their overall security posture. I evaluated potential risks, considering both the physical and digital aspects, and provided recommendations for strengthening their security based on the findings.
 
-Please dowmload my risk assessment [here](https://github.com/LwandoMadebe/lwandoRiskAssessment)
+Please dowmload my risk assessment [here](./LwandoRiskAssessment.XLS)
